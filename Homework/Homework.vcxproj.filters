@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyApp.h" />
+    <ClInclude Include="PhysicsSystem.h" />
+    <ClInclude Include="RenderingSystem.h" />
+    <ClInclude Include="ConstantBuffer.hpp">
+      <Filter>GG</Filter>
+    </ClInclude>
+    <ClInclude Include="DescriptorHeap.h">
+      <Filter>GG</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometry.h">
+      <Filter>GG</Filter>
+    </ClInclude>
+    <ClInclude Include="RigidBody.h">
+      <Filter>GG</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadedMesh.h">
+      <Filter>GG</Filter>
+    </ClInclude>
+    <ClInclude Include="Tex2D.h">
+      <Filter>GG</Filter>
+    </ClInclude>
+    <ClInclude Include="GPSO.h">
+      <Filter>GG</Filter>
+    </ClInclude>
+    <ClInclude Include="PxHelper.h">
+      <Filter>GG</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="GG">
+      <UniqueIdentifier>{b5c9241b-3b25-42af-9aeb-1afbb33086f9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
