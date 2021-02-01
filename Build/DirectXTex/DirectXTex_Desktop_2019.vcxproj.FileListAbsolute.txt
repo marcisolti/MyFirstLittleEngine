@@ -1,0 +1,2 @@
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\DirectXTex.pdb
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Build\DirectXTex\DirectXTex.pdb

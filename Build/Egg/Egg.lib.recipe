@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Shaders\lightPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Shaders\lightVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Shaders\pbrPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Shaders\pbrVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

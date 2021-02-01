@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Homework\Geometry.h(96,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Homework\Geometry.h(97,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Homework\Tex2D.h(110,30): warning C4244: '=': conversion from 'UINT64' to 'UINT', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Homework\Tex2D.h(111,1): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Homework\PhysicsSystem.h(109,74): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Homework\PhysicsSystem.h(109,63): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Homework\PhysicsSystem.h(109,52): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Homework\MyApp.h(490,13): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Homework\ConstantBuffer.hpp(65): warning C4172: returning address of local variable or temporary
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Homework\ConstantBuffer.hpp(65): warning C4172: returning address of local variable or temporary
+  Homework.vcxproj -> C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Homework.exe

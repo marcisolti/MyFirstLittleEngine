@@ -1,0 +1,6 @@
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Shaders\lightPS.cso
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Shaders\lightVS.cso
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Shaders\pbrPS.cso
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Shaders\pbrVS.cso
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Egg.pdb
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Build\Egg\Egg.pdb

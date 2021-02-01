@@ -1,0 +1,51 @@
+﻿  compilation object save succeeded; see C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Shaders\lightPS.cso
+  compilation object save succeeded; see C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Shaders\lightVS.cso
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Shaders\pbrPS.hlsl(22,9-61): warning X3206: implicit truncation of vector type
+  compilation object save succeeded; see C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Shaders\pbrPS.cso
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Shaders\pbrPS.hlsl(27,9-51): warning X3206: implicit truncation of vector type
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Shaders\pbrPS.hlsl(44,10-65): warning X3206: implicit truncation of vector type
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Shaders\pbrPS.hlsl(58,9-29): warning X3206: implicit truncation of vector type
+  
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Shaders\pbrVS.hlsl(10,2-56): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Shaders\pbrVS.cso
+  FirstPerson.cpp
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(101,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(101,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(103,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(103,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(105,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(105,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(107,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(107,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(109,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(109,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(111,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(111,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(115,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(186,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marci\Desktop\marton-solti-graphgame-hw\Egg\Cam\FirstPerson.cpp(185,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Internal.cpp
+  Bool1.cpp
+  Bool2.cpp
+  Bool3.cpp
+  Bool4.cpp
+  Float1.cpp
+  Float2.cpp
+  Float3.cpp
+  Float4.cpp
+  Float4x4.cpp
+  Int1.cpp
+  Int2.cpp
+  Int3.cpp
+  Int4.cpp
+  UInt1.cpp
+  UInt2.cpp
+  UInt3.cpp
+  UInt4.cpp
+  Shader.cpp
+  Generating Code...
+  Compiling...
+  Utility.cpp
+  Generating Code...
+  Egg.vcxproj -> C:\Users\marci\Desktop\marton-solti-graphgame-hw\Bin\Egg.lib
